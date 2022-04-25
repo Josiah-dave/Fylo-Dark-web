@@ -1,0 +1,81 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.bg-black{
+    background-image: url(./images/bg-curvy-desktop.svg);
+    background-color: hsl(218, 28%, 13%);
+}
+.text1{
+    font-size: 30px;
+    font-weight:bold;
+}
+
+/* .main{
+    background-image: url(./images/bg-curvy-desktop.svg);
+    background-position: top;
+} */
+
+.btn-get{
+    background: hsl(176, 68%, 64%);
+    color: white;
+    font-weight: bold;
+}
+.box3{
+    margin-top: 50px !important;
+}
+.link{
+    color: hsl(176, 68%, 64%);;
+    border-bottom: solid hsl(176, 68%, 64%); ;
+}
+.bg-blue{
+    background-color:hsl(219, 30%, 18%); 
+}
+.profiles{
+    border-radius: 50%;
+}
+.formbox{
+    background-color:hsl(219, 30%, 18%);
+    margin-right:10% ;
+    margin-left:10% ;
+    padding-bottom: 80;
+}
+.head{
+ margin-top: 30px;
+}
+.placeholder{
+   padding-right: 20% ;
+   padding-left: 20%;
+   border-radius: 10px;
+}
+.sign-in{
+    position: relative;
+}
+.foot{
+    list-style: none;
+}
+.footlist{
+    list-style: none;
+    line-height: 29px;
+}
+.fa-facebook{
+
+  border-radius: 50%;
+  border: 2px solid rgb(250, 247, 247);
+  padding: 7px 11px;
+ 
+}
+.fa-twitter{
+    border-radius: 50%;
+  border: 2px solid rgb(248, 247, 247);
+  padding: 7px 8px; 
+}
+.fa-instagram{
+    border-radius: 50%;
+    border: 2px solid rgb(250, 247, 247);
+    padding: 7px 8px; 
+}
+.footer{
+    cursor: pointer;
+}
